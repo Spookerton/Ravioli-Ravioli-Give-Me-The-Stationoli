@@ -10,6 +10,13 @@
  */
 /hook/startup
 
+
+/**
+ * Lobby start hook.
+ * Called in ticker.dm when main initialization is done.
+ */
+/hook/lobby
+
 /**
  * Roundstart hook.
  * Called in ticker.dm when a round starts.

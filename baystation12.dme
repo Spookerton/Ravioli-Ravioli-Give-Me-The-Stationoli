@@ -1083,6 +1083,7 @@
 #include "code\game\objects\items\weapons\tools\weldingtool.dm"
 #include "code\game\objects\items\weapons\tools\wirecutter.dm"
 #include "code\game\objects\items\weapons\tools\wrench.dm"
+#include "code\game\objects\random\_spawner.dm"
 #include "code\game\objects\random\date_based.dm"
 #include "code\game\objects\random\random.dm"
 #include "code\game\objects\structures\ai_decoy.dm"
