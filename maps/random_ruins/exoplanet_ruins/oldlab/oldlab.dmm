@@ -1236,7 +1236,7 @@
 	dir = 10
 	},
 /obj/structure/table/steel,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/map_template/oldlab/station/northairlockatmos)
 "tP" = (
@@ -1663,7 +1663,7 @@
 	dir = 4;
 	level = 2
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/map_template/oldlab/solars)
 "BY" = (

@@ -1390,7 +1390,7 @@
 	icon_state = "railing0-1"
 	},
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/structure/cable{
 	d1 = 4;
 	d2 = 8;
@@ -3848,7 +3848,7 @@
 /turf/space,
 /area/space)
 "ES" = (
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/scavver/gantry/up1)
 "ET" = (

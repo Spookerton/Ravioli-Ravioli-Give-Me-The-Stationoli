@@ -1355,7 +1355,7 @@
 "er" = (
 /obj/structure/table/rack,
 /obj/random/maintenance,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/constructionsite/storage)
 "es" = (
@@ -3125,7 +3125,7 @@
 /area/constructionsite)
 "ku" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/random/loot,
 /turf/simulated/floor/tiled/dark/airless,
 /area/constructionsite)
@@ -3252,7 +3252,7 @@
 /area/constructionsite/engineering)
 "kW" = (
 /obj/structure/table/standard,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/random/maintenance,
 /turf/simulated/floor/airless,
 /area/constructionsite/engineering)
@@ -3314,7 +3314,7 @@
 /area/constructionsite/engineering)
 "lj" = (
 /obj/structure/table/standard,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/constructionsite/engineering)
 "lk" = (
@@ -3365,7 +3365,7 @@
 /area/constructionsite/engineering)
 "lt" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/constructionsite/engineering)
 "lu" = (

@@ -1431,7 +1431,7 @@
 	icon_state = "railing0-1"
 	},
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/scavver/gantry/down2)
 "xL" = (
@@ -1988,7 +1988,7 @@
 	icon_state = "railing0-1"
 	},
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/scavver/gantry/down2)
 "Hs" = (

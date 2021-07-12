@@ -80,7 +80,7 @@
 /turf/template_noop,
 /area/template_noop)
 "O" = (
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/effect/landmark/clear,
 /turf/template_noop,
 /area/template_noop)

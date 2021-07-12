@@ -674,10 +674,10 @@
 /obj/item/stack/material/steel/fifty,
 /obj/item/stack/material/steel/fifty,
 /obj/item/stack/material/steel/fifty,
-/obj/random/toolbox,
-/obj/random/toolbox,
-/obj/random/toolbox,
-/obj/random/toolbox,
+/spawner/toolbox,
+/spawner/toolbox,
+/spawner/toolbox,
+/spawner/toolbox,
 /obj/effect/floor_decal/industrial/hatch/orange,
 /obj/structure/cable{
 	d1 = 2;

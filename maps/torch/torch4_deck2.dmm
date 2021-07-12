@@ -540,7 +540,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/seconddeck/central)
 "aW" = (
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/tiled/dark,
 /area/medical/morgue)
 "aX" = (
@@ -11891,7 +11891,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/auxsolarport)
 "CB" = (
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor,
 /area/storage/cargo)
 "CC" = (

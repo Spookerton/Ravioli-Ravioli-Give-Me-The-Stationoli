@@ -270,7 +270,7 @@
 /obj/random/powercell,
 /obj/random/voidsuit,
 /obj/random/voidhelmet,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/carpet/blue2,
 /area/template_noop)
 "bc" = (

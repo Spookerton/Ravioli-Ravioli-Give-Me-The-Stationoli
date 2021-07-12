@@ -811,7 +811,7 @@
 /area/smugglers/base)
 "bS" = (
 /obj/structure/table/standard,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor,
 /area/smugglers/base)
 "bT" = (

@@ -1602,7 +1602,7 @@
 /obj/effect/floor_decal/corner/grey/diagonal{
 	dir = 4
 	},
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/galley)
 "dv" = (
@@ -11038,7 +11038,7 @@
 /turf/simulated/open,
 /area/maintenance/thirddeck/starboard)
 "zg" = (
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -16692,7 +16692,7 @@
 /turf/simulated/floor/tiled/techfloor,
 /area/maintenance/thirddeck/port)
 "Ol" = (
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/tiled/freezer,
 /area/crew_quarters/galleybackroom)
 "Om" = (

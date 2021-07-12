@@ -5870,7 +5870,7 @@
 /turf/simulated/floor/carpet/blue2,
 /area/meatstation/dorm)
 "nJ" = (
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/space,
 /area/space)
 "nK" = (
@@ -5884,7 +5884,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/meatstation/engineering)
 "nM" = (

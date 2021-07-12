@@ -2359,7 +2359,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/universal{
 	dir = 4
 	},
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/machinery/atmospherics/binary/pump,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/exploration_shuttle/atmos)
@@ -2424,7 +2424,7 @@
 	},
 /obj/item/module/power_control,
 /obj/random/powercell,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/item/device/radio/intercom{
 	dir = 1;
 	pixel_y = -28
@@ -15306,7 +15306,7 @@
 /turf/simulated/floor/tiled/white,
 /area/shuttle/petrov/toxins)
 "Pd" = (
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/tiled,
 /area/quartermaster/exploration)
 "Pe" = (

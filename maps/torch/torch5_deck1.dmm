@@ -1478,7 +1478,7 @@
 /area/medical/chemistry)
 "acV" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor,
 /area/maintenance/firstdeck/aftstarboard)
 "acW" = (
@@ -4139,7 +4139,7 @@
 "ahh" = (
 /obj/structure/table/standard,
 /obj/effect/floor_decal/corner/paleblue/mono,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/item/paper_bin{
 	pixel_x = -3;
 	pixel_y = 7
@@ -4757,7 +4757,7 @@
 /turf/simulated/floor/wood/walnut,
 /area/medical/counselor/therapy)
 "aig" = (
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 4
 	},
@@ -7444,7 +7444,7 @@
 /obj/item/stool/padded,
 /obj/effect/floor_decal/corner/paleblue/mono,
 /obj/machinery/light/small,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/random_multi/single_item/skelestand,
 /obj/structure/curtain/open/bed,
 /turf/simulated/floor/tiled/white/monotile,
@@ -19341,7 +19341,7 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 8
 	},
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/plating,
 /area/maintenance/firstdeck/centralport)
 "hPt" = (
@@ -22757,7 +22757,7 @@
 	dir = 4
 	},
 /obj/structure/bed/chair/comfy/blue,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/tiled/white,
 /area/medical/medpaperworkoffice)
 "mlw" = (

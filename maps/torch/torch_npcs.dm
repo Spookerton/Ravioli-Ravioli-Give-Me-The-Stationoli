@@ -16,10 +16,11 @@
 	if(prob(50))
 		equip_to_appropriate_slot(new /obj/item/clothing/shoes/sandal)
 
-/obj/random_multi/single_item/runtime
-	name = "Multi Point - Runtime"
-	id = "Runtime"
-	item_path = /mob/living/simple_animal/friendly/cat/fluff/Runtime
+/spawner/runtime/name = "random cat (runtime)"
+/spawner/runtime/flags = SPAWNER_GROUPED|SPAWNER_REQUIRED|SPAWNER_SINGLE
+/spawner/runtime/chance = 0
+/spawner/runtime/choice()
+	return /mob/living/simple_animal/friendly/cat/fluff/Runtime
 
 /obj/random_multi/single_item/poppy
 	name = "Multi Point - Poppy"

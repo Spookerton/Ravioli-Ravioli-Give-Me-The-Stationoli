@@ -583,7 +583,7 @@
 /obj/machinery/atmospherics/portables_connector{
 	dir = 8
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/unsimulated/floor{
 	icon_state = "plating";
 	name = "plating"

@@ -312,7 +312,7 @@
 /obj/random/tech_supply,
 /obj/random/tech_supply,
 /obj/random/tech_supply,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/lost_supply_base)
 "aK" = (

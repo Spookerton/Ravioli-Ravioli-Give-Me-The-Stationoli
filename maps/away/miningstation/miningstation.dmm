@@ -1032,7 +1032,7 @@
 /obj/random/tool,
 /obj/random/tool,
 /obj/random/tool,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/plating,
 /area/miningstation/power)
 "cR" = (
@@ -2063,7 +2063,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -2151,7 +2151,7 @@
 /area/miningstation/prep2)
 "fa" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/item/shovel,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/miningstation/prep2)
@@ -2272,7 +2272,7 @@
 "fr" = (
 /obj/structure/table/rack,
 /obj/random/tool,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/miningstation/prep2)
 "fs" = (
@@ -4399,7 +4399,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 10
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor,
 /area/miningstation/prep)
 "kh" = (
@@ -6289,7 +6289,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled/techfloor,
 /area/miningstation/dorms)
 "oz" = (

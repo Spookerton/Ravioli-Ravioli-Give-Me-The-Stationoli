@@ -5165,7 +5165,7 @@
 	},
 /obj/random/tool,
 /obj/random/tool,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/plating,
 /area/verne/engineering/decktransfer/up)
 "Ow" = (

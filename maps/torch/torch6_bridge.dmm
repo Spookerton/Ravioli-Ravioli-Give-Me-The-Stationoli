@@ -3565,7 +3565,7 @@
 	dir = 8
 	},
 /obj/structure/table/steel_reinforced,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/machinery/power/apc/shuttle/aquila{
 	dir = 4;
 	name = "east bump";
@@ -7308,7 +7308,7 @@
 	},
 /obj/item/toy/torchmodel,
 /obj/structure/table/woodentable_reinforced/walnut,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/wood/walnut,
 /area/crew_quarters/heads/office/xo)
 "rE" = (
@@ -10286,7 +10286,7 @@
 /area/space)
 "Ac" = (
 /obj/structure/closet/crate,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/random/powercell,
 /obj/item/reagent_containers/spray/cleaner,
 /obj/item/storage/bag/trash,
@@ -13183,7 +13183,7 @@
 "Mf" = (
 /obj/structure/table/woodentable_reinforced/walnut/maple,
 /obj/item/folder/envelope/captain,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /turf/simulated/floor/wood/walnut,
 /area/crew_quarters/heads/office/co)
 "Mh" = (
@@ -15313,7 +15313,7 @@
 /area/aquila/airlock)
 "Vh" = (
 /obj/effect/floor_decal/corner/paleblue/diagonal,
-/obj/random_multi/single_item/runtime,
+/spawner/runtime,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},

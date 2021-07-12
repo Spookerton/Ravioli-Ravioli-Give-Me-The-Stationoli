@@ -98,18 +98,6 @@
 				/obj/item/device/assembly/timer,
 				/obj/item/device/multitool)
 
-/obj/random/toolbox
-	name = "random toolbox"
-	desc = "This is a random toolbox."
-	icon = 'icons/obj/storage.dmi'
-	icon_state = "red"
-
-/obj/random/toolbox/spawn_choices()
-	return list(/obj/item/storage/toolbox/mechanical = 30,
-				/obj/item/storage/toolbox/electrical = 20,
-				/obj/item/storage/toolbox/emergency = 20,
-				/obj/item/storage/toolbox/syndicate = 1)
-
 /obj/random/tech_supply
 	name = "random tech supply"
 	desc = "This is a random piece of technology supplies."
@@ -126,7 +114,7 @@
 				/obj/item/extinguisher = 1,
 				/obj/item/clothing/gloves/insulated/cheap = 1,
 				/obj/item/stack/cable_coil/random = 2,
-				/obj/random/toolbox = 2,
+				/spawner/toolbox = 2,
 				/obj/item/storage/belt/utility = 2,
 				/obj/item/storage/belt/utility/atmostech = 1,
 				/obj/random/tool = 5,

@@ -705,7 +705,7 @@
 /area/lar_maria/solar_control)
 "bu" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/random/material,
 /turf/simulated/floor/plating,
 /area/lar_maria/solar_control)
@@ -776,7 +776,7 @@
 /area/lar_maria/solar_control)
 "bC" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/random/smokes,
 /turf/simulated/floor/plating,
 /area/lar_maria/solar_control)
@@ -2082,7 +2082,7 @@
 /area/lar_maria/dorms)
 "fI" = (
 /obj/structure/table/woodentable,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/item/scalpel,
 /turf/simulated/floor/wood,
 /area/lar_maria/dorms)

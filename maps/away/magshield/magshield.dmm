@@ -1436,7 +1436,7 @@
 /area/magshield/north)
 "dA" = (
 /obj/structure/closet,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/magshield/north)
 "dB" = (
@@ -1483,7 +1483,7 @@
 /turf/simulated/floor/airless,
 /area/magshield/north)
 "dK" = (
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/magshield/north)
 "dL" = (
@@ -1561,7 +1561,7 @@
 	dir = 6;
 	icon_state = "warning"
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/airless,
 /area/magshield/north)
 "dY" = (

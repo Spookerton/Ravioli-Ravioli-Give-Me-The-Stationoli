@@ -500,7 +500,7 @@
 /area/errant_pisces/enginering)
 "bs" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/plating,
 /area/errant_pisces/storage_port)
 "bt" = (
@@ -6634,7 +6634,7 @@
 /area/errant_pisces/bridge)
 "qd" = (
 /obj/structure/table/steel,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled,
 /area/errant_pisces/bridge)
 "qe" = (

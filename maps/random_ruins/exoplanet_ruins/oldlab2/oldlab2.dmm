@@ -2472,7 +2472,7 @@
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 1
 	},
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/structure/cable/yellow{
 	d1 = 1;
 	d2 = 2;

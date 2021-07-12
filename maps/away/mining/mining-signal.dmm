@@ -81,7 +81,7 @@
 /area/outpost/abandoned)
 "au" = (
 /obj/structure/table,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/simulated/floor/tiled,
 /area/outpost/abandoned)
 "av" = (
@@ -2314,7 +2314,7 @@
 /area/outpost/abandoned)
 "ho" = (
 /obj/structure/table/rack,
-/obj/random/toolbox,
+/spawner/toolbox,
 /obj/effect/decal/cleanable/cobweb,
 /turf/simulated/floor/plating,
 /area/outpost/abandoned)

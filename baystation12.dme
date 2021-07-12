@@ -1086,6 +1086,7 @@
 #include "code\game\objects\random\_spawner.dm"
 #include "code\game\objects\random\date_based.dm"
 #include "code\game\objects\random\random.dm"
+#include "code\game\objects\random\spawners.dm"
 #include "code\game\objects\structures\ai_decoy.dm"
 #include "code\game\objects\structures\barricade.dm"
 #include "code\game\objects\structures\barsign.dm"

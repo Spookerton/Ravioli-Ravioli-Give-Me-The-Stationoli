@@ -437,7 +437,7 @@
 /area/map_template/icarus/bridge)
 "lh" = (
 /obj/effect/landmark/clear,
-/obj/random/toolbox,
+/spawner/toolbox,
 /turf/template_noop,
 /area/template_noop)
 "li" = (
